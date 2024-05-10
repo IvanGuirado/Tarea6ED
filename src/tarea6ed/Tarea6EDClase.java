@@ -29,10 +29,11 @@ public class Tarea6EDClase {
         }
 
     }
+    
 
     public void mostrarTotal(double total) {
-
         System.out.println("El total a pagar es:" + total);
         System.out.println("Enviado");
     }
 }
+
